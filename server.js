@@ -20,5 +20,5 @@ app.get('/notes', (req, res) =>
 );
 
 app.listen(PORT, () => {
-    console.log('app listen on port 3001')
+  console.log('app listen on port 3001')
 });
