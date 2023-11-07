@@ -13,6 +13,6 @@ Next feature is to handle delete request by clicking on the delete button
 https://aqueous-taiga-83368-2e67a270c7f8.herokuapp.com/
 
 ##Screenshot of Application
+<img width="1440" alt="Screenshot 2023-11-07 at 1 12 15 PM" src="https://github.com/jdardoin/note-tracker-11/assets/141884948/bc1d13a8-aca6-45fb-ad12-30a42be8a0f8">
 
-**<img width="1440" alt="Screenshot 2023-11-07 at 1 09 54 PM" src="https://github.com/jdardoin/note-tracker-11/assets/141884948/bc4c5b6f-7517-4d76-ae5a-a20375ce9a54">
-**
+
